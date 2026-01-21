@@ -24,7 +24,7 @@
 
 ```typescript
 const aybars = {
-  location: "Manisa, Turkey 🇹🇷",
+  location: "Aydın, Turkey 🇹🇷",
 
   role: "Software Engineer",
 
